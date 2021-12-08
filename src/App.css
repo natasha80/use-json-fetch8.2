@@ -1,0 +1,12 @@
+.App {
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.Data, .Error, .Loading {
+  margin-top: 10px;
+  border: 1px solid black;
+}
